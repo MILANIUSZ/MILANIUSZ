@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MILANIUSZ
-- 👀 I’m interested in DL/AI/BCI
+- 👀 I’m interested in AI/DL/Neurosceince/BCI
 - 🌱 I’m currently learning ...
 
 
