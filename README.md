@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MILANIUSZ
-- 👀 I’m interested in AI/DL/Neurosceince/BCI
+- 👋 Hi
 
 
 
